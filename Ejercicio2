@@ -1,0 +1,10 @@
+#Nombre: Ejercicio Open Bootcam - Primera parte
+#Autor: Pablo Uriel Alvarez
+
+#Clase
+class Coche:
+  def __init__(self):
+    self.numeroPuertas = 2
+
+  def incrementa(self, cantidad):
+    self.numeroPuertas +=1
