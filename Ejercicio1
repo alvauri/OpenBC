@@ -1,0 +1,9 @@
+#Nombre: Ejercicio Open Bootcam - Primera parte
+#Autor: Pablo Uriel Alvarez
+
+#Función
+def funcion(a,b,c):
+  return (a + b + c)
+
+#Programa Principal
+funcion(2,2,2)
